@@ -1,15 +1,18 @@
-### Date created
-Include the date you created this project and README file.
+Date created
+30.01.2021
 
-### Project Title
-Replace the Project Title
+Project Title
+BikeShare Project
 
-### Description
-Describe what your project is about and what it does
+Description
+This repository contains BikeShare Project for Udacity Programming For Data Science.
 
-### Files used
-Include the files used
+Files used
+The required files for running this program are:
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+washington.csv
+new_york_city.csv
+chicago.csv
+
+
 
