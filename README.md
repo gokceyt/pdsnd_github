@@ -10,9 +10,9 @@ This repository contains BikeShare Project for Udacity Programming For Data Scie
 ### Files used
 The required files for running this program are:
 
-washington.csv
-new_york_city.csv
-chicago.csv
+* washington.csv
+* new_york_city.csv
+* chicago.csv
 
 
 
