@@ -170,7 +170,7 @@ def user_stats(df):
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
-def display_data(df):
+def data_display(df):
     view_data = input('\nWould you like to view 5 rows of individual trip data? Enter yes or no\n')
     start_loc = 0
     keep_asking = True
@@ -187,7 +187,7 @@ def main():
         city, month, day = get_filters()
         df = load_data(city, month, day)
 
-        display_data(df)
+        data_display(df)
         time_stats(df)
         station_stats(df)
         trip_duration_stats(df)
